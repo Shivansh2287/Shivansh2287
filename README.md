@@ -33,6 +33,6 @@ Anything and everything that can be classified as technology💻 fascinates me.
 
 ---
 
-<p align="center">
-Developed with ❤️ in India 🇮🇳 
-</p>
+### 😜Here's a Joke for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
