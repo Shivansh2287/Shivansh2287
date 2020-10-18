@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Jiphy a social media platform
 
-[![Shivansh's github stats](https://github-readme-stats.vercel.app/api?username=Shivansh2287)](https://github.com/Shivansh2287/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh2287)](https://github.com/Shivansh2287/github-readme-stats)
 
-[![Shivansh's github stats](https://github-readme-stats.vercel.app/api?username=Shivansh2287)](https://github.com/Shivansh2287/github-readme-stats)
+[![Shivansh's github stats](https://github-readme-stats.vercel.app/api?username=Shivansh2287&show_icons=true&theme=radical)](https://github.com/Shivansh2287/github-readme-stats)
