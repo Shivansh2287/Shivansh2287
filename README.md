@@ -7,11 +7,11 @@ Anything and everything that can be classified as technology💻 fascinates me.
 
  <p align="center"> <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/coder.gif" alt="codergif" /> </p>
 
-<div align="center">
+
 [![Shivansh's github stats](https://github-readme-stats.vercel.app/api?username=Shivansh2287&show_icons=true&theme=radical)](https://github.com/Shivansh2287/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh2287&layout=compact)](https://github.com/Shivansh2287/github-readme-stats)
-</div>
+
 <h2>
 📫 Connect with me<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Handshake.gif" height="32px">
 </h2>
