@@ -10,7 +10,7 @@ Anything and everything that can be classified as technology💻 fascinates me.
 
 [![Shivansh's github stats](https://github-readme-stats.vercel.app/api?username=Shivansh2287&show_icons=true&theme=radical)](https://github.com/Shivansh2287/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh2287)](https://github.com/Shivansh2287/github-readme-stats)
 <h2>
 📫 Connect with me<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Handshake.gif" height="32px">
 </h2>
